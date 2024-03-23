@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.rajapet.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.rajapet.com/viral4d.html/sitemap.xml
